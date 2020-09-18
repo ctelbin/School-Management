@@ -3,4 +3,5 @@ hi;
 
 <?php
 $_COOKIE;
+$kozhi= $kaatukozhi;
 ?>
